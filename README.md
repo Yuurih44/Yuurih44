@@ -52,13 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Yuurih44/Yuurih44/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img height="200" src="https://conteudo.imguol.com.br/c/esporte/e6/2023/09/18/yuri-alberto-celebra-gol-do-corinthians-sobre-o-gremio-em-partida-do-campeonato-brasileiro-1695085987716_v2_750x421.jpg.webp"  />
-</div>
-
-###
