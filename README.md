@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! eu sou o Yuri siqueira tenho 16 anos, atualmente estudo no senai de desenvolvimento de sistemas.<br>-Web developer</p>
+<p align="left">Olá! eu sou o Yuri siqueira tenho 16 anos, atualmente estudo no SENAI de Desenvolvimento De Sistemas.<br>-Web developer</p>
 
 ###
 
