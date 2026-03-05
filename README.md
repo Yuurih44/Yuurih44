@@ -109,7 +109,6 @@ motto:      "Security isn't a feature — it's a foundation."
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=0D1117)&nbsp;
-![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0000&labelColor=0D1117)&nbsp;
 
 
 </div>
