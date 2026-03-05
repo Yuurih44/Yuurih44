@@ -60,11 +60,11 @@ motto:      "Security isn't a feature — it's a foundation."
 
 | Área | Tecnologias |
 |------|------------|
-| ☁️ **Cloud** | AWS · Google Cloud Platform · Cloud IAM · VPC |
+| ☁️ **Cloud** | AWS · Google Cloud Platform · |
 | 🔐 **Security** | Network Security · Ethical Hacking · SIEM · Threat Analysis |
 | ⚙️ **Backend** | Flask · REST APIs · Python · SQL |
-| 🗄️ **Database** | MySQL · PostgreSQL · SQL Server |
-| 🌐 **Networking** | TCP/IP · DNS · Firewalls · VPN |
+| 🗄️ **Database** | MySQL · SQL Server |
+
 
 </div>
 
@@ -94,7 +94,6 @@ motto:      "Security isn't a feature — it's a foundation."
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=FF0000&labelColor=0D1117)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=FF0000&labelColor=0D1117)&nbsp;
 
 </div>
 
@@ -104,7 +103,6 @@ motto:      "Security isn't a feature — it's a foundation."
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF0000&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![Networking](https://img.shields.io/badge/-Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=FF0000&labelColor=0D1117)&nbsp;
 
 </div>
@@ -115,8 +113,7 @@ motto:      "Security isn't a feature — it's a foundation."
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=0D1117)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=FF0000&labelColor=0D1117)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0000&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF0000&labelColor=0D1117)&nbsp;
+
 
 </div>
 
