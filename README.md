@@ -57,8 +57,8 @@ motto:      "Security isn't a feature — it's a foundation."
 
 | Área | Tecnologias |
 |------|------------|
-| ☁️ **Cloud** | AWS · Google Cloud Platform · |
-| 🔐 **Security** | Network Security · Ethical Hacking · SIEM · Threat Analysis |
+| ☁️ **Cloud** | AWS · Google Cloud Platform  |
+| 🔐 **Security** | Network Security ·|
 | ⚙️ **Backend** | Flask · REST APIs · Python · SQL |
 | 🗄️ **Database** | MySQL · SQL Server |
 
