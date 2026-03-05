@@ -1,53 +1,50 @@
-Você disse:
-<h3 align="left">Sobre Mim</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Yuri+Siqueira+Alves;I'm+17+years+old;I'm+from+São+Paulo,+SP;I+study+Cybersecurity+at+Senai;Also+Systems+Development+at+Senai+Mooca;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="left">Olá! eu sou o Yuri siqueira tenho 17 anos, atualmente estudo no SENAI de Desenvolvimento De Sistemas.<br>-Web developer</p>
-
-###
-
-<h3 align="left">Techs</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+<div align="center">  
+<a href="https://br.linkedin.com/in/yurisiqueiraalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
-###
+---
 
-<h3 align="left">Stats👾</h3>
+### 🔐 Main Skills:
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2900?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-FF0000?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-CC0000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FF2222?style=for-the-badge&logo=flask&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-990000?style=for-the-badge&logo=serverfault&logoColor=white)
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuurih44&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuurih44&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 🛠️ Tools:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-###
+---
 
-<h3 align="left">Midias</h3>
+### 📚 Other Knowledge:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![Networking](https://img.shields.io/badge/-Networking-0D1117?style=for-the-badge&logo=cisco&logoColor=FF0000&labelColor=0D1117)&nbsp;
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/_yurialvess/?next=%2F" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yuri-siqueira-alves-7969b633b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@yuurih_era" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+### 🚀 Studying Right Now:
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0D1117?style=for-the-badge&logo=hackthebox&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FF0000&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF0000&labelColor=0D1117)&nbsp;
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
