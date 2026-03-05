@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=Yuri%20Siqueira%20Alves&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Cloud%20%7C%20Backend&descAlignY=55&descAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=30&center=true&vCenter=true&width=1000&lines=🔐+Cybersecurity+Enthusiast;☁️+Cloud+Security+%7C+AWS+%7C+GCP;⚙️+Backend+Developer+%7C+Flask+%7C+SQL;📍+São+Paulo,+SP+—+Senai+São+Caetano;🎯+Turning+knowledge+into+security;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=30&center=true&vCenter=true&width=1000&lines=🔐+Cybersecurity+Enthusiast;☁️+Cloud+Security+%7C+AWS+%7C+GCP;⚙️+Backend+Developer+%7C+Flask+%7C+SQL;📍+São+Paulo,+SP+—+Senai+São+Caetano+Paulo+Skaf;🎯+Turning+knowledge+into+security;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ---
 
