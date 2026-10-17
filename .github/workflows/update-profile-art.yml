@@ -1,0 +1,37 @@
+name: Atualizar perfil
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+env:
+  GH_PROFILE_USER: Yuurih44
+  STATIC: "1"
+
+jobs:
+  refresh-profile-art:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar dependências
+        run: pip install -r scripts/requirements.txt
+      - name: Buscar contribuições públicas
+        run: python scripts/fetch_contributions.py
+      - name: Gerar cartão do perfil
+        run: python scripts/make_info_card.py
+      - name: Gerar calendário de contribuições
+        run: python scripts/render_heatmap_svg.py
+      - name: Salvar atualização
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualiza arte do perfil"
+          file_pattern: "data/contributions.json info-card.svg contrib-heatmap.svg"

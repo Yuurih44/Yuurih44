@@ -1,0 +1,22 @@
+{
+  "username": "Yuurih44",
+  "rows": [
+    ["host"],
+    ["kv", "Perfil", "Estudante de Cibersegurança"],
+    ["kv", "Local", "São Paulo, Brasil"],
+    ["gap"],
+    ["sec", "Formação"],
+    ["kv", "Ciberseg.", "SENAI São Caetano"],
+    ["kv", "Sistemas", "SENAI Mooca"],
+    ["gap"],
+    ["sec", "Foco"],
+    ["kv", "Cloud", "AWS · Google Cloud"],
+    ["kv", "Backend", "Python · Flask · REST APIs"],
+    ["kv", "Dados", "SQL · MySQL · SQLite"],
+    ["kv", "Ferramentas", "Linux · Git · GitHub"],
+    ["gap"],
+    ["sec", "Projetos"],
+    ["bul", "Triagem de logs e análise de headers HTTP"],
+    ["bul", "API REST com SQLite"]
+  ]
+}

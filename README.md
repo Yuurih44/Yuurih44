@@ -1,45 +1,23 @@
-<p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Terminal animado com retrato ASCII e apresentação de Yuri Siqueira Alves, estudante de cibersegurança em São Paulo." />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://br.linkedin.com/in/yurisiqueiraalves">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/_yyurialves/">Instagram</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Yuurih44?tab=repositories">Repositórios</a>
-</p>
+<h3><code>yuurih44@github ~ $ whoami</code></h3>
 
-### `~ $ whoami`
+<img src="./info-card.svg" width="490" alt="Cartão de perfil de Yuri Siqueira Alves: estudante de cibersegurança, formação, áreas de estudo e projetos." />
 
-Sou **Yuri Siqueira Alves**, estudante de cibersegurança no **SENAI São Caetano**, com estudos em desenvolvimento de sistemas no **SENAI Mooca**.
+<h3><code>yuurih44@github ~ $ ./contributions.sh</code></h3>
 
-Meu foco está em **segurança em nuvem, backend e infraestrutura**. Aqui compartilho projetos e estudos que conectam desenvolvimento de APIs, análise de eventos e revisão de configurações de segurança.
+<img src="./contrib-heatmap.svg" width="100%" alt="Calendário das contribuições públicas de Yuurih44 no GitHub, atualizado diariamente." />
 
-### `~ $ ls projects/`
+</div>
 
-| Projeto | O que você encontra | Tecnologias |
-| :--- | :--- | :--- |
-| [auth-log-triage](https://github.com/Yuurih44/auth-log-triage) | Triagem offline de eventos de autenticação, correlação por IP e relatórios JSON. | Python |
-| [http-header-review](https://github.com/Yuurih44/http-header-review) | Revisão offline de cabeçalhos HTTP: HSTS, nosniff e presença de CSP. | Python · JSON |
-| [task-api-sqlite](https://github.com/Yuurih44/task-api-sqlite) | API REST de tarefas com CRUD, validação, paginação e persistência. | Python · SQLite |
+## Projetos
 
-<details>
-<summary><code>~ $ cat stack.json</code> — tecnologias e estudos</summary>
+- [auth-log-triage](https://github.com/Yuurih44/auth-log-triage) — triagem local de eventos de autenticação e geração de relatórios JSON.
+- [http-header-review](https://github.com/Yuurih44/http-header-review) — análise de cabeçalhos HTTP de segurança.
+- [task-api-sqlite](https://github.com/Yuurih44/task-api-sqlite) — API REST de tarefas com validação, paginação e SQLite.
 
-```json
-{
-  "focus": ["Cloud Security", "Backend", "Infrastructure"],
-  "security": ["Network Security"],
-  "cloud": ["AWS", "Google Cloud Platform"],
-  "backend": ["Python", "Flask", "REST APIs", "SQL"],
-  "databases": ["MySQL", "SQL Server", "SQLite"],
-  "tools": ["Linux", "Git", "GitHub", "VS Code"]
-}
-```
+## Contato
 
-</details>
+[LinkedIn](https://br.linkedin.com/in/yurisiqueiraalves) · [Instagram](https://www.instagram.com/_yyurialves/)
 
----
-
-<p align="center">
-  <sub>“Security isn't a feature — it's a foundation.”</sub>
-</p>
+<sub>Cartão e calendário inspirados em <a href="https://github.com/valthvn/animated-terminal-profile">animated-terminal-profile</a>, sob licença MIT. O calendário é atualizado diariamente pelo GitHub Actions.</sub>
