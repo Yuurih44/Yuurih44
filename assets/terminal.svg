@@ -1,26 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-labelledby="title desc">
-  <title id="title">Yuri Siqueira Alves — Yuurih44</title>
-  <desc id="desc">Estudante de cibersegurança. Cloud Security, backend e infraestrutura. SENAI São Caetano e SENAI Mooca. São Paulo, Brasil.</desc>
-  <rect x="1" y="1" width="958" height="388" rx="16" fill="#0d1117" stroke="#30363d"/>
-  <path d="M17 1H943Q959 1 959 17V49H1V17Q1 1 17 1" fill="#161b22"/>
-  <path d="M1 49H959" stroke="#30363d"/>
-  <circle cx="25" cy="25" r="5" fill="#f85149"/>
-  <circle cx="45" cy="25" r="5" fill="#8b949e"/>
-  <circle cx="65" cy="25" r="5" fill="#484f58"/>
-  <g font-family="'Courier New', monospace">
-    <text x="480" y="30" text-anchor="middle" fill="#8b949e" font-size="12">yuurih44 — ~/profile</text>
-    <text x="40" y="94" fill="#8b949e" font-size="15"><tspan fill="#f85149">yuri@github</tspan> ~ $ ./introduce</text>
-    <text x="37" y="157" fill="#f0f6fc" font-size="54" font-weight="700" letter-spacing="2">YUURIH44<tspan fill="#f85149">_</tspan></text>
-    <text x="40" y="192" fill="#c9d1d9" font-size="20">Yuri Siqueira Alves</text>
-    <text x="40" y="235" fill="#f85149" font-size="15">CYBERSECURITY STUDENT</text>
-    <text x="40" y="265" fill="#c9d1d9" font-size="15">Cloud Security / Backend / Infrastructure</text>
-    <path d="M40 290H920" stroke="#30363d"/>
-    <text x="40" y="322" fill="#8b949e" font-size="13">SENAI São Caetano · SENAI Mooca</text>
-    <text x="40" y="351" fill="#8b949e" font-size="13">São Paulo, BR <tspan fill="#484f58">//</tspan> Studying &amp; building</text>
-    <text x="788" y="351" fill="#f85149" font-size="12">[ learning ]</text>
-  </g>
-  <g fill="none" stroke="#30363d" stroke-width="2" transform="translate(757 109)">
-    <path d="M55 0 110 22V70C110 110 55 138 55 138S0 110 0 70V22Z"/>
-    <path d="m32 67 17 17 33-37" stroke="#f85149" stroke-width="4"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+<title id="title">Yuri Siqueira Alves — perfil em terminal</title>
+<desc id="desc">Retrato em ASCII e cartão de apresentação de Yuri Siqueira Alves, estudante de cibersegurança em São Paulo.</desc>
+<defs>
+  <clipPath id="portraitReveal"><rect x="28" y="92" width="398" height="340"><animate attributeName="width" from="0" to="398" dur="1.5s" fill="freeze"/></rect></clipPath>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}
+    .row{opacity:1}
+    @keyframes appear{to{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.row{opacity:1;animation:none} #portraitReveal rect{animation:none;width:398px}}
+  </style>
+</defs>
+<rect x="1" y="1" width="958" height="438" rx="14" fill="#0d1117" stroke="#30363d"/>
+<path d="M15 1h930a14 14 0 0 1 14 14v37H1V15A14 14 0 0 1 15 1" fill="#161b22"/>
+<path d="M1 52h958" stroke="#30363d"/>
+<circle cx="25" cy="27" r="5" fill="#ff5f56"/><circle cx="45" cy="27" r="5" fill="#ffbd2e"/><circle cx="65" cy="27" r="5" fill="#27c93f"/>
+<text class="mono" x="480" y="32" text-anchor="middle" fill="#8b949e" font-size="13">yuurih44@github: ~/profile</text>
+<text class="mono" x="28" y="78" fill="#8b949e" font-size="13"><tspan fill="#58a6ff">yuri@github</tspan> ~ $ ./whoami</text>
+<g clip-path="url(#portraitReveal)" class="mono" fill="#c9d1d9" font-size="9.4" xml:space="preserve">
+<text x="28" y="108.0">- -%*=======-  :#@+==%+.--::::::---------------------===</text>
+<text x="28" y="117.5">-.-**=======:  -*%*=+#+---=+++++==--------------------==</text>
+<text x="28" y="127.1">-.-**=======:  -*%*=+##+**#%%%%%#*+=------------------==</text>
+<text x="28" y="136.7">-.:**=======:  :*%**#%%%@@@@@@@@@@%#*+----------------==</text>
+<text x="28" y="146.2">-.:**=======-  :*%%%@@@@@%%@@@@@@@@@@#+---------------==</text>
+<text x="28" y="155.8">=.:+*=======-  :*%@@@%#**++*#%%%%@@@@@#=---------------=</text>
+<text x="28" y="165.3">=.:+*=======-  :*%@@%*-::---=++++*%@@@%*=---------------</text>
+<text x="28" y="174.9">=.:+*=======-. -#@@@#-...:::--====+#@@@#+---------------</text>
+<text x="28" y="184.4">=.:+*=======-. -#@@%+:::------=====*%@@%*=--------------</text>
+<text x="28" y="193.9">=.:+*+======-. -#@%#+=++**++++******%@@@*=--------------</text>
+<text x="28" y="203.5">=..+*+======-. =%%#*+**###*########*#%@@#=--------------</text>
+<text x="28" y="213.1">+..+*+======-. -#%#+++*****=+#####***%@@#-::::::::::::::</text>
+<text x="28" y="222.6">+..+*+======-. :+*+=--=+++--=**+***+*#%%=:..............</text>
+<text x="28" y="232.2">+..+*+======-. .==-::-=++===++**+++=++**:               </text>
+<text x="28" y="241.7">+:.=#+=======. .--::-=+*++****+*+=====+=.               </text>
+<text x="28" y="251.2">*:.=#+====++=. .:--=+**+++++++++++=====:                </text>
+<text x="28" y="260.8">:..-+=====++=: .-==++***+====+***+++==-.                </text>
+<text x="28" y="270.4">   ...:----==. .-++=+++=======+++++==-:                 </text>
+<text x="28" y="279.9">...  ..:...... ..:-=++=--======-=+==:.                  </text>
+<text x="28" y="289.5">@+.   ...... ..  .:=+*+=--=======++=:.                  </text>
+<text x="28" y="299.0">@*:         ... .:==+*****++******+**-.                 </text>
+<text x="28" y="308.6">+*=.         ..:-*#==+*#%%%%%%##*++#%#-:.....           </text>
+<text x="28" y="318.1">##+:     ..:-=+*#%%+==+*#%%%%##**++#@@#*++==---::....   </text>
+<text x="28" y="327.6">%#*:...:-=+*#%%@@@@#++++*####***++*%@@@@%%#**++++++==--.</text>
+<text x="28" y="337.2">%%*--+*#%%@@@@@@@@@@#*++**********%@@@@@@@@%##**+++++**@</text>
+<text x="28" y="346.8">@%###%%@@@@@@@@@@@@@@%#********##%@@@@@@@@@@@@%%#*+=---:</text>
+<text x="28" y="356.3">#%%%@@@@@@@@@@@@@@@@@@%########%%@@@@@@@@@@@@@@@@@%%*+-.</text>
+<text x="28" y="365.9">%%@@@@@@@@@@@@@@@@@@@@@@%%%%%%%@@@@@@@@@@@@@@@@@@@@@@%#=</text>
+<text x="28" y="375.4">%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text x="28" y="385.0">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="28" y="394.5">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="28" y="404.1">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="28" y="413.6">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text x="28" y="423.2">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+</g>
+<text class="mono" x="30" y="430" fill="#8b949e" font-size="11">[ retrato convertido em ASCII ]</text>
+<path d="M436 72v348" stroke="#30363d"/>
+<text class="mono" x="466" y="87" fill="#58a6ff" font-size="13">yuri@github</text><text class="mono" x="554" y="87" fill="#c9d1d9" font-size="13">------------------------------</text>
+<text class="mono row" style="animation-delay:.45s" x="466" y="119" fill="#8b949e" font-size="14">Nome</text><text class="mono row" style="animation-delay:.55s" x="568" y="119" fill="#f0f6fc" font-size="14">Yuri Siqueira Alves</text>
+<text class="mono row" style="animation-delay:.65s" x="466" y="147" fill="#8b949e" font-size="14">Usuário</text><text class="mono row" style="animation-delay:.75s" x="568" y="147" fill="#f0f6fc" font-size="14">Yuurih44</text>
+<text class="mono row" style="animation-delay:.85s" x="466" y="175" fill="#8b949e" font-size="14">Local</text><text class="mono row" style="animation-delay:.95s" x="568" y="175" fill="#f0f6fc" font-size="14">São Paulo, Brasil</text>
+<text class="mono row" style="animation-delay:1.05s" x="466" y="203" fill="#8b949e" font-size="14">Estudando</text><text class="mono row" style="animation-delay:1.15s" x="568" y="203" fill="#f0f6fc" font-size="14">Cibersegurança · SENAI</text>
+<text class="mono row" style="animation-delay:1.25s" x="466" y="249" fill="#58a6ff" font-size="13">ÁREAS DE INTERESSE</text>
+<text class="mono row" style="animation-delay:1.35s" x="466" y="278" fill="#c9d1d9" font-size="13">• Segurança em nuvem</text>
+<text class="mono row" style="animation-delay:1.45s" x="466" y="302" fill="#c9d1d9" font-size="13">• Backend e APIs</text>
+<text class="mono row" style="animation-delay:1.55s" x="466" y="326" fill="#c9d1d9" font-size="13">• Infraestrutura</text>
+<text class="mono row" style="animation-delay:1.65s" x="466" y="373" fill="#58a6ff" font-size="13">FERRAMENTAS</text>
+<text class="mono row" style="animation-delay:1.75s" x="466" y="399" fill="#c9d1d9" font-size="12">Python · Flask · SQL · Linux · Git</text>
+<text class="mono" x="920" y="430" text-anchor="end" fill="#8b949e" font-size="11">estudando e construindo <tspan fill="#58a6ff">▌</tspan></text>
 </svg>

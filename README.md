@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Yuri Siqueira Alves — Yuurih44. Estudante de cibersegurança. Cloud Security, backend e infraestrutura." />
+  <img src="./assets/terminal.svg" width="100%" alt="Terminal animado com retrato ASCII e apresentação de Yuri Siqueira Alves, estudante de cibersegurança em São Paulo." />
 </p>
 
 <p align="center">
