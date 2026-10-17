@@ -19,6 +19,10 @@ Sou estudante de Cibersegurança e Desenvolvimento de Sistemas no SENAI, em São
 
 ## Tecnologias
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,flask,aws,gcp,linux,git&perline=9" alt="Python, TypeScript, JavaScript, React, Flask, AWS, Google Cloud, Linux e Git" />
+</p>
+
 `Python` · `TypeScript` · `JavaScript` · `React` · `Flask` · `SQL` · `SQLite` · `AWS` · `Google Cloud` · `Linux` · `Git`
 
 ## Contato
