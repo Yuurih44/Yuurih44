@@ -1,6 +1,6 @@
 <!-- YURIH44 / SESSION 001 -->
 
-<img src="assets/profile/boot.svg" width="960" alt="YURIH44 — estudante de cibersegurança; cloud, backend e desenvolvimento de sistemas. Aprender, construir e proteger." />
+<img src="assets/profile/boot.svg" width="960" alt="Yuri Siqueira Alves — estudante de cibersegurança; cloud, backend e desenvolvimento de sistemas. Aprender, construir e proteger." />
 
 <img src="assets/profile/projects-head.svg" width="960" alt="Projetos — ferramentas de segurança, análise e desenvolvimento." />
 
