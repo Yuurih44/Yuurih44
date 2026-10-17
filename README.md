@@ -4,56 +4,74 @@
 
 <br />
 
-**Estudante de Cibersegurança e Desenvolvimento de Sistemas · São Paulo, Brasil**
-
-[LinkedIn](https://br.linkedin.com/in/yurisiqueiraalves) · [Projetos](https://github.com/Yuurih44?tab=repositories)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1100&color=55DDF5&center=true&vCenter=true&width=720&lines=perfil+carregado...;estudando+seguranca+%C2%B7+cloud+%C2%B7+backend;transformando+estudo+em+projetos+test%C3%A1veis" alt="Perfil carregado; estudando segurança, cloud e backend; transformando estudo em projetos testáveis" />
 
 <br />
 
+[LinkedIn](https://br.linkedin.com/in/yurisiqueiraalves) &nbsp;·&nbsp; [Repositórios](https://github.com/Yuurih44?tab=repositories)
+
+</div>
+
+```console
+yuri@github:~$ whoami
+Yuri Siqueira Alves — estudante de Cibersegurança e Desenvolvimento de Sistemas
+
+yuri@github:~$ cat current_mission.txt
+Entender como os sistemas falham, registrar o que encontro e construir formas melhores de protegê-los.
+```
+
+## `01 / áreas em exploração`
+
 ```text
-┌─ DIREÇÃO ──────────────────────────────────────────────────────────┐
-│ Segurança em nuvem · Fundamentos de redes · APIs e backend seguro │
-└───────────────────────────────────────────────────────────────────┘
+┌────────────────────┬────────────────────────────────────────┐
+│ SEGURANÇA          │ fundamentos de redes · análise de eventos│
+│ CLOUD              │ AWS · Google Cloud · IAM                │
+│ BACKEND            │ Python · Flask · APIs REST · SQL        │
+│ INTERFACES         │ React · TypeScript · HTML · Sass        │
+└────────────────────┴────────────────────────────────────────┘
 ```
 
-Estudo como sistemas funcionam para aprender a protegê-los. Tenho explorado segurança em nuvem, análise de eventos e desenvolvimento de aplicações, transformando esses estudos em projetos pequenos, documentados e testáveis.
+## `02 / projetos selecionados`
 
-## Em campo
+```console
+yuri@github:~/projects$ ls -1 --description
+```
 
-| Projeto | O que faz |
+| Repositório | Descrição |
 | --- | --- |
-| [IAM Policy Auditor](https://github.com/Yuurih44/iam-policy-auditor) | Analisa arquivos de políticas AWS IAM localmente e sinaliza permissões amplas. |
-| [Auth Log Triage](https://github.com/Yuurih44/auth-log-triage) | Organiza eventos de autenticação para facilitar uma triagem inicial. |
-| [HTTP Header Review](https://github.com/Yuurih44/http-header-review) | Verifica a presença de cabeçalhos HTTP de segurança em entradas JSON. |
-| [Task API SQLite](https://github.com/Yuurih44/task-api-sqlite) | API REST em Python com persistência SQLite, validação e paginação. |
-| [Teste Front-End](https://github.com/Yuurih44/teste-front-end) | Catálogo responsivo desenvolvido em React e TypeScript a partir de um desafio técnico. |
+| [`iam-policy-auditor`](https://github.com/Yuurih44/iam-policy-auditor) | Auditor local de políticas AWS IAM em JSON, com regras explicáveis e testes. |
+| [`auth-log-triage`](https://github.com/Yuurih44/auth-log-triage) | Triagem offline de eventos de autenticação com correlação e relatório JSON. |
+| [`http-header-review`](https://github.com/Yuurih44/http-header-review) | Verificação de cabeçalhos HTTP de segurança a partir de dados JSON. |
+| [`task-api-sqlite`](https://github.com/Yuurih44/task-api-sqlite) | API REST com Python e SQLite, validação, paginação e testes HTTP. |
+| [`teste-front-end`](https://github.com/Yuurih44/teste-front-end) | Catálogo responsivo com React e TypeScript baseado em um desafio técnico. |
 
-## Caixa de ferramentas
-
-```yaml
-estudando:
-  seguranca: [cibersegurança, fundamentos de redes, análise de eventos]
-  cloud: [AWS, Google Cloud]
-  desenvolvimento: [Python, Flask, APIs REST, SQL]
-  dados: [MySQL, SQL Server, SQLite]
-  interfaces: [React, TypeScript, HTML, CSS, Sass]
+```text
+5 projetos públicos · Python / TypeScript · documentação + testes
 ```
-
-## No meu radar
-
-- Aprofundar fundamentos de IAM e configuração segura em nuvem.
-- Criar ferramentas locais que expliquem seus resultados e possam ser verificadas por testes.
-- Melhorar a documentação e a qualidade dos projetos a cada iteração.
-
-## Conecte-se
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-conversar-172923?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/yurisiqueiraalves)
-[![GitHub](https://img.shields.io/badge/GitHub-projetos-172923?style=flat-square&logo=github&logoColor=white)](https://github.com/Yuurih44?tab=repositories)
 
 <div align="center">
 
-<sub>Aprender, testar, documentar, repetir.</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuurih44&bg_color=0b1020&color=55ddf5&line=b69aff&point=ff7ca8&area=true&hide_border=true&radius=8" alt="Atividade pública recente no GitHub" width="96%" />
+
+</div>
+
+## `03 / próximo ciclo`
+
+```diff
++ aprofundar IAM e configuração segura em cloud
++ praticar análise defensiva com dados e logs
++ documentar decisões e validar mudanças com testes
+```
+
+## `04 / sinal aberto`
+
+Se você trabalha com segurança, cloud ou desenvolvimento backend, pode me encontrar por aqui:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-55DDF5?style=flat-square&logo=linkedin&logoColor=101426)](https://br.linkedin.com/in/yurisiqueiraalves)
+[![GitHub](https://img.shields.io/badge/GitHub-B69CFF?style=flat-square&logo=github&logoColor=101426)](https://github.com/Yuurih44?tab=repositories)
+
+<div align="center">
+
+<sub><code>session.status = "learning_by_building"</code></sub>
 
 </div>
