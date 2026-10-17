@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-labelledby="title desc">
+  <title id="title">Yuri Siqueira Alves — Yuurih44</title>
+  <desc id="desc">Estudante de cibersegurança. Cloud Security, backend e infraestrutura. SENAI São Caetano e SENAI Mooca. São Paulo, Brasil.</desc>
+  <rect x="1" y="1" width="958" height="388" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <path d="M17 1H943Q959 1 959 17V49H1V17Q1 1 17 1" fill="#161b22"/>
+  <path d="M1 49H959" stroke="#30363d"/>
+  <circle cx="25" cy="25" r="5" fill="#f85149"/>
+  <circle cx="45" cy="25" r="5" fill="#8b949e"/>
+  <circle cx="65" cy="25" r="5" fill="#484f58"/>
+  <g font-family="'Courier New', monospace">
+    <text x="480" y="30" text-anchor="middle" fill="#8b949e" font-size="12">yuurih44 — ~/profile</text>
+    <text x="40" y="94" fill="#8b949e" font-size="15"><tspan fill="#f85149">yuri@github</tspan> ~ $ ./introduce</text>
+    <text x="37" y="157" fill="#f0f6fc" font-size="54" font-weight="700" letter-spacing="2">YUURIH44<tspan fill="#f85149">_</tspan></text>
+    <text x="40" y="192" fill="#c9d1d9" font-size="20">Yuri Siqueira Alves</text>
+    <text x="40" y="235" fill="#f85149" font-size="15">CYBERSECURITY STUDENT</text>
+    <text x="40" y="265" fill="#c9d1d9" font-size="15">Cloud Security / Backend / Infrastructure</text>
+    <path d="M40 290H920" stroke="#30363d"/>
+    <text x="40" y="322" fill="#8b949e" font-size="13">SENAI São Caetano · SENAI Mooca</text>
+    <text x="40" y="351" fill="#8b949e" font-size="13">São Paulo, BR <tspan fill="#484f58">//</tspan> Studying &amp; building</text>
+    <text x="788" y="351" fill="#f85149" font-size="12">[ learning ]</text>
+  </g>
+  <g fill="none" stroke="#30363d" stroke-width="2" transform="translate(757 109)">
+    <path d="M55 0 110 22V70C110 110 55 138 55 138S0 110 0 70V22Z"/>
+    <path d="m32 67 17 17 33-37" stroke="#f85149" stroke-width="4"/>
+  </g>
+</svg>
