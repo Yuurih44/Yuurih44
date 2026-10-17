@@ -12,7 +12,6 @@ permissions:
 
 env:
   GH_PROFILE_USER: Yuurih44
-  STATIC: "1"
 
 jobs:
   refresh-profile-art:

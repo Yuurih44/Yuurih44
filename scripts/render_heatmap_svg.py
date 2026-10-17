@@ -101,8 +101,13 @@ def render(data):
     stats_h = 88
     canvas_h = TITLEBAR_H + TOP_LABEL_H + art_h + stats_h + PAD
 
-    # Keep the graph visible in static README previews as well as in browsers.
-    css = ".c { opacity: 1; }"
+    css = f"""
+@keyframes cell {{
+  0%   {{ opacity: 0; transform: translateY(-6px); }}
+  100% {{ opacity: 1; transform: translateY(0); }}
+}}
+.c {{ opacity: 0; animation: cell {CELL_DUR:.2f}s cubic-bezier(.2,.8,.2,1) both; }}
+""".strip()
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_w}" height="{canvas_h}" '
