@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">Código e segurança digital</title>
+  <desc id="desc">Um símbolo vetorial com colchetes de código, escudo e conexões digitais em violeta e azul-petróleo.</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M75 32 31 110l44 78M145 32l44 78-44 78" stroke="#6d28d9" stroke-width="9"/>
+    <path d="m96 139 27-58" stroke="#0e7490" stroke-width="8"/>
+    <path d="m110 77 30 11v26c0 23-13 39-30 48-17-9-30-25-30-48V88z" stroke="#334155" stroke-width="6"/>
+    <circle cx="110" cy="112" r="7" fill="#6d28d9" stroke="none"/>
+    <path d="M110 119v11" stroke="#6d28d9" stroke-width="5"/>
+    <path d="M20 110h11m158 0h11" stroke="#0e7490" stroke-width="4"/>
+  </g>
+</svg>
