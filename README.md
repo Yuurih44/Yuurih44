@@ -1,50 +1,26 @@
-<h1 align="center"><code>yuri@github:~$</code></h1>
 <p align="center">
-  <strong>Yuri Siqueira Alves</strong><br />
-  Cibersegurança · Desenvolvimento de Sistemas · São Paulo, Brasil
-</p>
-<p align="center">
-  <a href="https://br.linkedin.com/in/yurisiqueiraalves">linkedin</a> &nbsp;·&nbsp;
-  <a href="https://github.com/Yuurih44?tab=repositories">repositories</a>
+  <img src="assets/profile/banner.svg" width="100%" alt="Olá, mundo! Sou Yuri Siqueira Alves, estudante de cibersegurança e desenvolvimento de sistemas." />
 </p>
 
----
+## Sobre mim
 
-### <code>~ $ whoami</code>
+Sou estudante de Cibersegurança e Desenvolvimento de Sistemas no SENAI, em São Paulo. Tenho interesse em segurança em nuvem, backend e desenvolvimento web. Uso projetos pessoais para praticar, testar ideias e documentar o que aprendo.
 
-```yaml
-name: Yuri Siqueira Alves
-education:
-  - Cibersegurança @ SENAI São Caetano
-  - Desenvolvimento de Sistemas @ SENAI Mooca
-focus: [cloud-security, backend, network-security]
-currently-learning: [AWS, Google Cloud, Python, TypeScript]
-```
+- **Cibersegurança** — SENAI São Caetano
+- **Desenvolvimento de Sistemas** — SENAI Mooca
+- **Estudando:** AWS, Google Cloud, Python e TypeScript
 
-### <code>~ $ tree ~/projects</code>
+## Projetos
 
-```text
-~/projects
-├── econverse-catalog/     React · TypeScript · Sass
-├── iam-policy-auditor/    Python · AWS IAM · JSON
-├── task-api-sqlite/       Python · REST · SQLite
-└── auth-log-triage/       Python · log analysis · JSON
-```
+- **[Econverse — Teste Front-End](https://github.com/Yuurih44/teste-front-end)** — catálogo responsivo feito com React, TypeScript e Sass, com uma versão fiel ao teste e outra com funcionalidades extras.
+- **[IAM Policy Auditor](https://github.com/Yuurih44/iam-policy-auditor)** — CLI educativa que analisa políticas AWS IAM em JSON e aponta padrões comuns de permissões arriscadas.
+- **[Task API SQLite](https://github.com/Yuurih44/task-api-sqlite)** — API REST para tarefas com validação, paginação, persistência local e testes HTTP.
+- **[Auth Log Triage](https://github.com/Yuurih44/auth-log-triage)** — ferramenta local que resume eventos de autenticação e sinaliza falhas repetidas por IP.
 
-- **[econverse-catalog](https://github.com/Yuurih44/teste-front-end)** — implementação do teste front-end da Econverse, com uma versão fiel ao escopo e outra com recursos extras.
-- **[iam-policy-auditor](https://github.com/Yuurih44/iam-policy-auditor)** — analisa políticas AWS IAM em JSON e sinaliza padrões comuns de permissões arriscadas.
-- **[task-api-sqlite](https://github.com/Yuurih44/task-api-sqlite)** — API de tarefas com validação, paginação, persistência local e testes HTTP.
-- **[auth-log-triage](https://github.com/Yuurih44/auth-log-triage)** — resume eventos de autenticação e sinaliza falhas repetidas por IP.
+## Tecnologias
 
-### <code>~ $ cat ./toolbox</code>
+`Python` · `TypeScript` · `JavaScript` · `React` · `Flask` · `SQL` · `SQLite` · `AWS` · `Google Cloud` · `Linux` · `Git`
 
-| área | ferramentas |
-| --- | --- |
-| `languages` | Python · TypeScript · JavaScript · SQL |
-| `web` | React · Flask · Sass · REST |
-| `cloud` | AWS · Google Cloud |
-| `environment` | Linux · Git · SQLite |
-
-### <code>~ $ contact --open</code>
+## Contato
 
 [LinkedIn](https://br.linkedin.com/in/yurisiqueiraalves) · [GitHub](https://github.com/Yuurih44)
